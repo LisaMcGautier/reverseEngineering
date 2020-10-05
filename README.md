@@ -1,4 +1,4 @@
-https://docs.google.com/document/d/1_Db_cxxyehhmTdzZXNf7pZKlRxVccRIrl1pDRklsGng/edit
+https://docs.google.com/document/d/1_Db_cxxyehhmTdzZXNf7pZKlRxVccRIrl1pDRklsGng/edit?usp=sharing
 
 # Reverse Engineering Code (tutorial)
 No license selected
